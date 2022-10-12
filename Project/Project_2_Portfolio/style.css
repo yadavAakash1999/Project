@@ -1,0 +1,21 @@
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@600&display=swap');
+
+* {
+    padding: 0;
+    margin: 0;
+}
+
+.sidebar {
+    background-color: red;
+    width: 20vw;
+    font-family: 'Dancing Script', cursive;
+}
+
+.main {
+    background-color: yellow;
+    width: 80vw;
+}
+
+.container {
+    display: flex;
+}
